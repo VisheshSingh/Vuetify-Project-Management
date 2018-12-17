@@ -48,7 +48,7 @@ export default {
         this.loading = true;
         const project = {
           title: this.title,
-          person: "Yoshi",
+          person: "The Net Ninja",
           due: format(this.due, "Do MMM YYYY"),
           content: this.content,
           status: "ongoing"
